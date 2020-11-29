@@ -11,7 +11,7 @@ This is Bashar Ovi, a passionate .Net developer. He always love to keep his code
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=basharovi&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basharovi&layout=compact)]()
+[![Profile Summary](https://profile-summary-for-github.com/user/basharovi)]()
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=basharovi) 
 

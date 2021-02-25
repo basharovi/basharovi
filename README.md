@@ -1,12 +1,12 @@
 ## Bashar Ovi
 
-> Jr. Software Engineer [Perky Rabbit](https://www.perkyrabbit.com) <br/>
+> Jr. Software Engineer [Save the children in Bangladesh](https://bangladesh.savethechildren.net) <br/>
 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/basharovi)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/bashar_ovi)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/basharovi.net)
 
 
-This is Bashar Ovi, a passionate .Net developer. He always love to keep his code clean and readable. Whenever, He learns something new, he tries to implement them in his projects. He loves to code through the language, C#. But He has the ability to adapt to any technology with Self-learning and hard-working.
+This is Bashar Ovi, a passionate software engineer who loves to code through the language, C#. But He has the ability to adapt to any technology with Self-learning and hard-working. Because he is a learner with fast learning skills and has lots of patience in learning new things.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

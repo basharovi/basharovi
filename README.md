@@ -21,3 +21,8 @@ This is Bashar Ovi, a passionate software engineer who loves to code through the
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<div align="center">
+   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=basharovi&theme=github-light"/>
+</div>
